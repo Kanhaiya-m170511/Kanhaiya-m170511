@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kanhaiya Kumar, completed my graduation from NIT Calicut.
-- 👀 I’m interested in Software development.
+- 👀 I’m interested in Software development-Backend.
 - 🌱 I’m currently learning Docker, K8S, AWS and Golang.
 - 📫 How to reach me - +91 9955972450
 
