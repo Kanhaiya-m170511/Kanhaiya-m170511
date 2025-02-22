@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kanhaiya Kumar, completed my graduation from NIT Calicut.
-- I've 3+ Years of experience in java backend development.
-- 👀 I’m interested in Software development-Backend.
-- 🌱 I’m currently learning Docker, K8S, AWS and Golang.
+-  I've 4+ Years of experience in java backend development.
+- 👀 I’m interested in Software development-Backend roles.
+- 🌱 I’m currently learning Docker, K8S, and AWS.
 - 📫 How to reach me - +91 9955972450
 
 <!---
